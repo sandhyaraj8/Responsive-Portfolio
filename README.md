@@ -1,2 +1,2 @@
 # Responsive-Portfolio
-mobile-freindly
+mobile-friendly
